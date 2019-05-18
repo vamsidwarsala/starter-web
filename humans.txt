@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Power <role> Tiger <twitter>
 
 # THANKS
 
